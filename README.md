@@ -1,2 +1,5 @@
-# Awesome-flash-thoughts
-Some flash thoughts that smell good in Deep learning，Graph network， Mento Carlo Searching and so on .
+# Awesome-Papers-and-Codes
+
+收集整理并总结的优秀论文和代码的解读，结合代码阅读论文是一种好习惯，讨论代码实现细节以及挖出论文的坑也是非常欢迎的。
+
+不间断更新。
